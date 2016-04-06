@@ -9,7 +9,7 @@
 #define NAMESIZE 32
 
 /*C:/Users/admin/Desktop/CST_Term_2/COMP_2510_C/midterm2*/
-
+/*colt rulez*/
 typedef struct record record;
 struct record {
 	char name[32];
