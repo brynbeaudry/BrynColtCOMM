@@ -10,6 +10,7 @@
 
 /*C:/Users/admin/Desktop/CST_Term_2/COMP_2510_C/midterm2*/
 /*colt rulez*/
+/*balls*/
 typedef struct record record;
 struct record {
 	char name[32];
